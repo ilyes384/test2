@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Instajob'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B37E7A9231614F9FA7D7D530AB618D81 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A8BF41E442C4624A00C462F8825ACC5 }}
           package: .
